@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://imgur.com/SdRIJck.png"></p>
 
-<p align="center"><a href="https://youtu.be/hsoJLJ22GVA" target="_blank"><img src="https://imgur.com/ygHMd3L.png"></a></p>
+<p align="center"><a href="https://youtu.be/uiSKOquCd8c" target="_blank"><img src="https://imgur.com/ygHMd3L.png"></a></p>
 
 ### Introduction:
-A tutorial on how to fix the procedural animation with baked animation in Unity3D. Also showing all the steps to setup procedural animation. While trying to make procedural animation to work with baked animation you will notice that the model and the origin point becomes separate or procedural animation is working only. In this tutorial I am showing how to setup the procedural animation and one of the way to fix the procedural and baked animation issue. Watch my [Video]() to get a detailed understanding of the issue, the cause of the issue and the solution to the issue. If my solution doesn't work then I have linked to other sources in [Research Links](#research-links) that fixes this issue using other means.
+A tutorial on how to fix the procedural animation with baked animation in Unity3D. Also showing all the steps to setup procedural animation. While trying to make procedural animation to work with baked animation you will notice that the model and the origin point becomes separate or procedural animation is working only. In this tutorial I am showing how to setup the procedural animation and one of the way to fix the procedural and baked animation issue. Watch my [Video](https://youtu.be/uiSKOquCd8c) to get a detailed understanding of the issue, the cause of the issue and the solution to the issue. If my solution doesn't work then I have linked to other sources in [Research Links](#research-links) that fixes this issue using other means.
 
 ## Table of Contents:
 - [Prerequisites](#prerequisites)
